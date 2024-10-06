@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the discipline that designs, develops, tests, and maintains software systems to ensure that software works as specified, is adequately tested, and is ready to deploy. The industry is full of stories of products delayed, eventually failing, or causing harm to users and customers because software engineers could not follow best practices and do the testing required to ensure that the code they wrote functioned as needed. If every system is vulnerable, whether it's the smartphone in your pocket or the long-distance banking services that help you deal with your finances from anywhere in the world, then sound software engineering is the lifeline that enables those systems to function as expected and deliver the services that users, stakeholders, and shareholders expect.
+Software engineering is the discipline that designs, develops, tests, and maintains software systems to ensure that software works as specified, is adequately tested, and is ready to deploy.
 
 #1 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Structured Programming (1970s): provided a systematic approach to writing code, including increased readability and maintenance.
